@@ -1,2 +1,5 @@
-# Watch_app_py.py
-Watch_app_py.py
+1. Настольные часы на python с помощью библиотеки tkinter
+2. Преобразование .py в .exe с помощью библиотеки PyInstaller. Установка библиотеки в папку с файлом pip install pyinstaller
+3. После установки библиотеки запустить команду через cmd: pyinstaller --onefile watch_app_py.py
+4. После завершения установки отобразится 2 папки - "build" и "dist", а также файл с расширением .spec
+5. Нужный .exe-файл находится в папке dist
